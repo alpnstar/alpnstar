@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=350&color=ED0253&center=true&multiline=true&width=1000&height=100&lines=Welcome+everyone!;My+name+is+Daud." alt="Typing SVG" /></a>
-<h3>I am a Junior Frontend Developer.</h3>    
+<h3 style = 'color: #0e5c6f'>I am a Junior Frontend Developer.</h3>    
 </div>
 <div id="socials" align="center">
 	<a href="https://www.instagram.com/alpnstar/">
