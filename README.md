@@ -23,10 +23,10 @@
 </div>
 <h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=github_dark"/>
-	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=dracula">
-	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-repo-language?username=alpnstar&theme=dracula">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=2077"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077">
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-repos-per-language?username=alpnstar&theme=2077">
 </div>
 
 
