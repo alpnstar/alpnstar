@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=350&color=ED0253&center=true&multiline=true&width=1000&height=100&lines=Welcome+everyone!;My+name+is+Daud.;I+am+Junior+Frontend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=0&color=ED0253&center=true&multiline=true&width=1110&height=100&lines=Welcome+everyone!;My+name+is+Daud.;I+am+Junior+Frontend+Developer." alt="Typing SVG" /></a>
 <div style = 'margin-top: 100px;'id = "languages-and-tools" align = "center">
     <h3>Languages and tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp; &nbsp;
