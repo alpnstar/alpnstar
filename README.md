@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=350&color=ED0253&center=true&multiline=true&width=435&lines=Welcome+everyone!;My+name+is+Daud.;I+am+Junior+Frontend+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=350&color=ED0253&center=true&multiline=true&width=1000&height=100&lines=Welcome+everyone!;My+name+is+Daud.;I+am+Junior+Frontend+Developer" alt="Typing SVG" /></a>
 <div style = 'margin-top: 100px;'id = "languages-and-tools" align = "center">
     <h3>Languages and tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp; &nbsp;
@@ -13,10 +12,10 @@
 </div>
 <h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
 <div id="stat" align="center">
-	<img src = 'https://www.codewars.com/users/alpnstar/badges/large'>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=2077"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
 	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077">
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alpnstar&theme=2077">
 </div>
 
 
