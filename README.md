@@ -23,6 +23,7 @@
 </div>
 <div id="stat" align="center">
 	<h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=2077"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
+	<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077'>;
 </div>
