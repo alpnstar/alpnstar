@@ -1,4 +1,4 @@
-<a style = 'display: inline-block; margin: 0 auto' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&duration=2500&pause=350&color=D4024A&center=true&multiline=true&width=435&height=80&lines=Welcome+everyone!;My+name+is+Daud.;I+am+a+Junior+Frontend+Developer." alt="Typing SVG" /></a>
+<img style = 'display:inline-block; margin: 0 auto' src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&duration=2500&pause=350&color=D4024A&center=true&multiline=true&width=435&height=80&lines=Welcome+everyone!;My+name+is+Daud.;I+am+a+Junior+Frontend+Developer." alt="Typing SVG" />
 
 <div style = 'margin-top: 100px;'id = "languages-and-tools" align = "center">
     <h3>Languages and tools</h3>
