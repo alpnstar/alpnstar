@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&duration=2500&pause=350&color=D4024A&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+everyone!;My+name+is+Daud.;I+am+a+Junior+Frontend+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&duration=2500&pause=350&color=D4024A&center=true&multiline=true&width=435&lines=Welcome+everyone!;My+name+is+Daud.;I+am+a+Junior+Frontend+Developer.)](https://git.io/typing-svg)
 
 <div style = 'margin-top: 100px;'id = "languages-and-tools" align = "center">
     <h3>Languages and tools</h3>
