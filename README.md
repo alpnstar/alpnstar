@@ -1,4 +1,4 @@
-<div style = 'display: flex; justify-content: center;'>
+<div style = 'width: 100px;'>
 	<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&duration=2500&pause=350&color=D4024A&center=true&multiline=true&width=435&height=80&lines=Welcome+everyone!;My+name+is+Daud.;I+am+a+Junior+Frontend+Developer." alt="Typing SVG" />
 
 </div>
