@@ -26,7 +26,7 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpnstar&theme=2077"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
 	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077">
-	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-repos-per-language?username=alpnstar&theme=2077">
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alpnstar&theme=2077">
 </div>
 
 
