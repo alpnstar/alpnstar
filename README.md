@@ -32,4 +32,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alpnstar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="center" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
-<img align = "center" src = "metrics.plugin.languages.svg" width = '400'>
+<img align = "center" src = "metrics.plugin.languages.details.svg" width = '400'>
