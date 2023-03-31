@@ -24,5 +24,6 @@
 </div>
 <div id="stat" align="center">
 	<h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
+	<img src = 'github-metrics.svg'>
 	<img src = 'https://www.codewars.com/users/alpnstar/badges/large'>
 </div>
