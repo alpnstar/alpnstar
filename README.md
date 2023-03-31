@@ -29,7 +29,4 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
 	<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077'>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alpnstar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="center" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
 <img align = "center" src = "metrics.plugin.languages.details.svg" width = '400'>
