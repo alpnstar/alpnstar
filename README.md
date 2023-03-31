@@ -26,5 +26,7 @@
 	<h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
 	<img src = 'github-metrics.svg'><br>
 	<img src = 'https://www.codewars.com/users/alpnstar/badges/large'><br>
-	<img src = 'metrics.plugin.isocalendar.fullyear.svg'>
+	<br>
+	<br>
+	<img width = '600' src = 'metrics.plugin.isocalendar.fullyear.svg'>
 </div>
