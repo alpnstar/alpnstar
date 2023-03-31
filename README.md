@@ -31,4 +31,4 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alpnstar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align="center" src="metrics.plugin.languages.svg" alt="Metrics" width="400">
+<img align="center" src="metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
