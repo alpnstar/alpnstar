@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
     <a href="https://git.io/typing-svg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=750&pause=350&color=ED0253&center=true&multiline=true&width=1000&height=100&lines=Welcome+everyone!;My+name+is+Daud.;I am a Junior Frontend Developer." alt="Typing SVG" /></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
 <h3 ></h3>    
@@ -28,3 +29,6 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpnstar&theme=2077"/>
 	<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alpnstar&theme=2077'>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alpnstar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img align="center" src="metrics.plugin.languages.svg" alt="Metrics" width="400">
