@@ -21,6 +21,8 @@
     <img align = 'center' width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;&nbsp;
     <img align = 'center' width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
     <img align = 'center' width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />&nbsp;&nbsp;
+    <img align = 'center' width = '40px' src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" />&nbsp;&nbsp;
+	
 </div>
 <div id="stat" align="center">
 	<h3 style = 'margin-top: 100px' align = 'center'>My stats</h3>
