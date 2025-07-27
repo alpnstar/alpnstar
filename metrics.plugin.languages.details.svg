@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.49385141548174" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="415.49385141548174" y="0" width="27.005784896991994" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.49963631247374" y="0" width="7.69979625260986" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.1994325650836" y="0" width="7.258270534423786" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.4577030995074" y="0" width="2.5422969004926217" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.5052833635693" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="415.5052833635693" y="0" width="26.991103761728514" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.49638712529776" y="0" width="7.695610417955655" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.1919975432534" y="0" width="7.254324726075639" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.4463222693291" y="0" width="2.5536777306709246" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>10.9 MB</div>
-                                <div>90.32%</div>
+                                <div>90.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,8 +61,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>67 kB</div>
-                                <div>0.55%</div>
+                                <div>67.4 kB</div>
+                                <div>0.56%</div>
                             </small>
                         </div>
                     </section>
